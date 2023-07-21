@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/divyanshuyadav2.github.io/todo/static/css/main.1326b66c.css",
+    "main.js": "/divyanshuyadav2.github.io/todo/static/js/main.6fdb69d7.js",
+    "index.html": "/divyanshuyadav2.github.io/todo/index.html",
+    "main.1326b66c.css.map": "/divyanshuyadav2.github.io/todo/static/css/main.1326b66c.css.map",
+    "main.6fdb69d7.js.map": "/divyanshuyadav2.github.io/todo/static/js/main.6fdb69d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1326b66c.css",
+    "static/js/main.6fdb69d7.js"
+  ]
+}
